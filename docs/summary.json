@@ -1,0 +1,37 @@
+[
+  {
+    "organization": "reposense",
+    "repoName": "reposense",
+    "branch": "master",
+    "displayName": "reposense_reposense_master",
+    "sinceDate": "2018-05-15"
+  },
+  {
+    "organization": "markbind",
+    "repoName": "markbind",
+    "branch": "master",
+    "displayName": "markbind_markbind_master",
+    "sinceDate": "2018-05-15"
+  },
+  {
+    "organization": "teammates",
+    "repoName": "teammates",
+    "branch": "recycling-bin",
+    "displayName": "teammates_teammates_recycling-bin",
+    "sinceDate": "2018-05-15"
+  },
+  {
+    "organization": "teammates",
+    "repoName": "teammates",
+    "branch": "master",
+    "displayName": "teammates_teammates_master",
+    "sinceDate": "2018-05-15"
+  },
+  {
+    "organization": "teammates",
+    "repoName": "teammates",
+    "branch": "8872-support-entering-comments-from-view-GRQ",
+    "displayName": "teammates_teammates_8872-support-entering-comments-from-view-GRQ",
+    "sinceDate": "2018-05-15"
+  }
+]
