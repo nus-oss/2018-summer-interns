@@ -4,91 +4,67 @@
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-22"
+        "sinceDate": "2018-05-19",
+        "untilDate": "2018-05-26"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-22",
-        "untilDate": "2018-05-29"
+        "sinceDate": "2018-05-26",
+        "untilDate": "2018-06-02"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-29",
-        "untilDate": "2018-06-05"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-05",
-        "untilDate": "2018-06-12"
+        "sinceDate": "2018-06-02",
+        "untilDate": "2018-06-09"
       },
       {
         "insertions": 68,
         "deletions": 14,
-        "sinceDate": "2018-06-12",
-        "untilDate": "2018-06-19"
+        "sinceDate": "2018-06-09",
+        "untilDate": "2018-06-16"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-19",
-        "untilDate": "2018-06-26"
+        "sinceDate": "2018-06-16",
+        "untilDate": "2018-06-23"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-26",
-        "untilDate": "2018-07-03"
+        "sinceDate": "2018-06-23",
+        "untilDate": "2018-06-30"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-07-03",
-        "untilDate": "2018-07-10"
+        "sinceDate": "2018-06-30",
+        "untilDate": "2018-07-07"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-10",
-        "untilDate": "2018-07-17"
+        "insertions": 868,
+        "deletions": 88,
+        "sinceDate": "2018-07-07",
+        "untilDate": "2018-07-14"
       },
       {
-        "insertions": 884,
-        "deletions": 98,
-        "sinceDate": "2018-07-17",
-        "untilDate": "2018-07-24"
+        "insertions": 16,
+        "deletions": 10,
+        "sinceDate": "2018-07-14",
+        "untilDate": "2018-07-21"
+      },
+      {
+        "insertions": 304,
+        "deletions": 15,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-28"
       }
     ]
   },
   "authorDailyIntervalContributions": {
     "dalessr": [
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-16"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-16",
-        "untilDate": "2018-05-17"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-17",
-        "untilDate": "2018-05-18"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-18",
-        "untilDate": "2018-05-19"
-      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -414,8 +390,8 @@
         "untilDate": "2018-07-12"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 868,
+        "deletions": 88,
         "sinceDate": "2018-07-12",
         "untilDate": "2018-07-13"
       },
@@ -450,8 +426,8 @@
         "untilDate": "2018-07-18"
       },
       {
-        "insertions": 877,
-        "deletions": 97,
+        "insertions": 9,
+        "deletions": 9,
         "sinceDate": "2018-07-18",
         "untilDate": "2018-07-19"
       },
@@ -466,14 +442,38 @@
         "deletions": 1,
         "sinceDate": "2018-07-20",
         "untilDate": "2018-07-21"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-22"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-22",
+        "untilDate": "2018-07-23"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-23",
+        "untilDate": "2018-07-24"
+      },
+      {
+        "insertions": 304,
+        "deletions": 15,
+        "sinceDate": "2018-07-24",
+        "untilDate": "2018-07-25"
       }
     ]
   },
   "authorFinalContributionMap": {
-    "dalessr": 942
+    "dalessr": 1246
   },
   "authorContributionVariance": {
-    "dalessr": 14008.1045
+    "dalessr": 14839.362
   },
   "authorDisplayNameMap": {
     "dalessr": "Shengran"

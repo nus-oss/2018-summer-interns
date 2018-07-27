@@ -4,339 +4,315 @@
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-22"
+        "sinceDate": "2018-05-19",
+        "untilDate": "2018-05-26"
       },
       {
         "insertions": 12,
         "deletions": 7,
-        "sinceDate": "2018-05-22",
-        "untilDate": "2018-05-29"
+        "sinceDate": "2018-05-26",
+        "untilDate": "2018-06-02"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-29",
-        "untilDate": "2018-06-05"
+        "sinceDate": "2018-06-02",
+        "untilDate": "2018-06-09"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-05",
-        "untilDate": "2018-06-12"
+        "sinceDate": "2018-06-09",
+        "untilDate": "2018-06-16"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-12",
-        "untilDate": "2018-06-19"
+        "sinceDate": "2018-06-16",
+        "untilDate": "2018-06-23"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-19",
-        "untilDate": "2018-06-26"
+        "sinceDate": "2018-06-23",
+        "untilDate": "2018-06-30"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-26",
-        "untilDate": "2018-07-03"
+        "sinceDate": "2018-06-30",
+        "untilDate": "2018-07-07"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-07-03",
-        "untilDate": "2018-07-10"
+        "sinceDate": "2018-07-07",
+        "untilDate": "2018-07-14"
       },
       {
-        "insertions": 20,
-        "deletions": 8,
-        "sinceDate": "2018-07-10",
-        "untilDate": "2018-07-17"
+        "insertions": 49,
+        "deletions": 720,
+        "sinceDate": "2018-07-14",
+        "untilDate": "2018-07-21"
       },
       {
-        "insertions": 29,
-        "deletions": 712,
-        "sinceDate": "2018-07-17",
-        "untilDate": "2018-07-24"
+        "insertions": 12,
+        "deletions": 23,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-28"
       }
     ],
     "AdityaA1998": [
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-22"
+        "sinceDate": "2018-05-19",
+        "untilDate": "2018-05-26"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-22",
-        "untilDate": "2018-05-29"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-29",
-        "untilDate": "2018-06-05"
+        "sinceDate": "2018-05-26",
+        "untilDate": "2018-06-02"
       },
       {
         "insertions": 227,
         "deletions": 23,
-        "sinceDate": "2018-06-05",
-        "untilDate": "2018-06-12"
+        "sinceDate": "2018-06-02",
+        "untilDate": "2018-06-09"
       },
       {
-        "insertions": 24,
-        "deletions": 15,
-        "sinceDate": "2018-06-12",
-        "untilDate": "2018-06-19"
+        "insertions": 1,
+        "deletions": 12,
+        "sinceDate": "2018-06-09",
+        "untilDate": "2018-06-16"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-19",
-        "untilDate": "2018-06-26"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-26",
-        "untilDate": "2018-07-03"
+        "insertions": 23,
+        "deletions": 3,
+        "sinceDate": "2018-06-16",
+        "untilDate": "2018-06-23"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-07-03",
-        "untilDate": "2018-07-10"
+        "sinceDate": "2018-06-23",
+        "untilDate": "2018-06-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-30",
+        "untilDate": "2018-07-07"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-07",
+        "untilDate": "2018-07-14"
       },
       {
         "insertions": 184,
         "deletions": 40,
-        "sinceDate": "2018-07-10",
-        "untilDate": "2018-07-17"
+        "sinceDate": "2018-07-14",
+        "untilDate": "2018-07-21"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-17",
-        "untilDate": "2018-07-24"
-      }
-    ],
-    "yong24s": [
-      {
-        "insertions": 201,
-        "deletions": 122,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-22"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-22",
-        "untilDate": "2018-05-29"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-29",
-        "untilDate": "2018-06-05"
-      },
-      {
-        "insertions": 372,
-        "deletions": 175,
-        "sinceDate": "2018-06-05",
-        "untilDate": "2018-06-12"
-      },
-      {
-        "insertions": 245,
-        "deletions": 154,
-        "sinceDate": "2018-06-12",
-        "untilDate": "2018-06-19"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-19",
-        "untilDate": "2018-06-26"
-      },
-      {
-        "insertions": 46,
-        "deletions": 58,
-        "sinceDate": "2018-06-26",
-        "untilDate": "2018-07-03"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-03",
-        "untilDate": "2018-07-10"
-      },
-      {
-        "insertions": 25,
-        "deletions": 16,
-        "sinceDate": "2018-07-10",
-        "untilDate": "2018-07-17"
-      },
-      {
-        "insertions": 127,
-        "deletions": 48,
-        "sinceDate": "2018-07-17",
-        "untilDate": "2018-07-24"
+        "insertions": 181,
+        "deletions": 22,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-28"
       }
     ],
     "yamidark": [
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-22"
+        "sinceDate": "2018-05-19",
+        "untilDate": "2018-05-26"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-22",
-        "untilDate": "2018-05-29"
+        "insertions": 213,
+        "deletions": 262,
+        "sinceDate": "2018-05-26",
+        "untilDate": "2018-06-02"
       },
       {
-        "insertions": 249,
-        "deletions": 304,
-        "sinceDate": "2018-05-29",
-        "untilDate": "2018-06-05"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-05",
-        "untilDate": "2018-06-12"
+        "insertions": 36,
+        "deletions": 42,
+        "sinceDate": "2018-06-02",
+        "untilDate": "2018-06-09"
       },
       {
         "insertions": 168,
         "deletions": 63,
-        "sinceDate": "2018-06-12",
-        "untilDate": "2018-06-19"
+        "sinceDate": "2018-06-09",
+        "untilDate": "2018-06-16"
       },
       {
         "insertions": 1047,
         "deletions": 936,
-        "sinceDate": "2018-06-19",
-        "untilDate": "2018-06-26"
+        "sinceDate": "2018-06-16",
+        "untilDate": "2018-06-23"
       },
       {
         "insertions": 5,
         "deletions": 5,
-        "sinceDate": "2018-06-26",
-        "untilDate": "2018-07-03"
+        "sinceDate": "2018-06-23",
+        "untilDate": "2018-06-30"
       },
       {
-        "insertions": 128,
-        "deletions": 170,
-        "sinceDate": "2018-07-03",
-        "untilDate": "2018-07-10"
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-30",
+        "untilDate": "2018-07-07"
       },
       {
-        "insertions": 88,
-        "deletions": 19,
-        "sinceDate": "2018-07-10",
-        "untilDate": "2018-07-17"
+        "insertions": 216,
+        "deletions": 189,
+        "sinceDate": "2018-07-07",
+        "untilDate": "2018-07-14"
       },
       {
-        "insertions": 300,
-        "deletions": 41,
-        "sinceDate": "2018-07-17",
-        "untilDate": "2018-07-24"
+        "insertions": 288,
+        "deletions": 38,
+        "sinceDate": "2018-07-14",
+        "untilDate": "2018-07-21"
+      },
+      {
+        "insertions": 339,
+        "deletions": 120,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-28"
+      }
+    ],
+    "yong24s": [
+      {
+        "insertions": 201,
+        "deletions": 90,
+        "sinceDate": "2018-05-19",
+        "untilDate": "2018-05-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-26",
+        "untilDate": "2018-06-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-02",
+        "untilDate": "2018-06-09"
+      },
+      {
+        "insertions": 372,
+        "deletions": 175,
+        "sinceDate": "2018-06-09",
+        "untilDate": "2018-06-16"
+      },
+      {
+        "insertions": 245,
+        "deletions": 154,
+        "sinceDate": "2018-06-16",
+        "untilDate": "2018-06-23"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-23",
+        "untilDate": "2018-06-30"
+      },
+      {
+        "insertions": 46,
+        "deletions": 58,
+        "sinceDate": "2018-06-30",
+        "untilDate": "2018-07-07"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-07",
+        "untilDate": "2018-07-14"
+      },
+      {
+        "insertions": 152,
+        "deletions": 64,
+        "sinceDate": "2018-07-14",
+        "untilDate": "2018-07-21"
+      },
+      {
+        "insertions": 429,
+        "deletions": 140,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-28"
       }
     ],
     "eugenepeh": [
       {
-        "insertions": 394133,
-        "deletions": 147,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-22"
-      },
-      {
         "insertions": 212,
         "deletions": 394301,
-        "sinceDate": "2018-05-22",
-        "untilDate": "2018-05-29"
+        "sinceDate": "2018-05-19",
+        "untilDate": "2018-05-26"
       },
       {
         "insertions": 10,
         "deletions": 5,
-        "sinceDate": "2018-05-29",
-        "untilDate": "2018-06-05"
+        "sinceDate": "2018-05-26",
+        "untilDate": "2018-06-02"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-05",
-        "untilDate": "2018-06-12"
+        "sinceDate": "2018-06-02",
+        "untilDate": "2018-06-09"
       },
       {
         "insertions": 1,
         "deletions": 0,
-        "sinceDate": "2018-06-12",
-        "untilDate": "2018-06-19"
+        "sinceDate": "2018-06-09",
+        "untilDate": "2018-06-16"
       },
       {
         "insertions": 107,
         "deletions": 66,
-        "sinceDate": "2018-06-19",
-        "untilDate": "2018-06-26"
+        "sinceDate": "2018-06-16",
+        "untilDate": "2018-06-23"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-06-26",
-        "untilDate": "2018-07-03"
+        "sinceDate": "2018-06-23",
+        "untilDate": "2018-06-30"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-07-03",
-        "untilDate": "2018-07-10"
+        "sinceDate": "2018-06-30",
+        "untilDate": "2018-07-07"
       },
       {
         "insertions": 1356,
         "deletions": 769,
-        "sinceDate": "2018-07-10",
-        "untilDate": "2018-07-17"
+        "sinceDate": "2018-07-07",
+        "untilDate": "2018-07-14"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-07-17",
-        "untilDate": "2018-07-24"
+        "sinceDate": "2018-07-14",
+        "untilDate": "2018-07-21"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-28"
       }
     ]
   },
   "authorDailyIntervalContributions": {
     "ongspxm": [
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-16"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-16",
-        "untilDate": "2018-05-17"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-17",
-        "untilDate": "2018-05-18"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-18",
-        "untilDate": "2018-05-19"
-      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -720,33 +696,39 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-22"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-22",
+        "untilDate": "2018-07-23"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-23",
+        "untilDate": "2018-07-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-24",
+        "untilDate": "2018-07-25"
+      },
+      {
+        "insertions": 12,
+        "deletions": 23,
+        "sinceDate": "2018-07-25",
+        "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
       }
     ],
     "AdityaA1998": [
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-16"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-16",
-        "untilDate": "2018-05-17"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-17",
-        "untilDate": "2018-05-18"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-18",
-        "untilDate": "2018-05-19"
-      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -1130,443 +1112,39 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-22"
-      }
-    ],
-    "yong24s": [
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-16"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-16",
-        "untilDate": "2018-05-17"
+        "sinceDate": "2018-07-22",
+        "untilDate": "2018-07-23"
       },
       {
-        "insertions": 0,
-        "deletions": 32,
-        "sinceDate": "2018-05-17",
-        "untilDate": "2018-05-18"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-18",
-        "untilDate": "2018-05-19"
+        "insertions": 148,
+        "deletions": 15,
+        "sinceDate": "2018-07-23",
+        "untilDate": "2018-07-24"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-19",
-        "untilDate": "2018-05-20"
-      },
-      {
-        "insertions": 201,
-        "deletions": 90,
-        "sinceDate": "2018-05-20",
-        "untilDate": "2018-05-21"
+        "sinceDate": "2018-07-24",
+        "untilDate": "2018-07-25"
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "sinceDate": "2018-05-21",
-        "untilDate": "2018-05-22"
+        "sinceDate": "2018-07-25",
+        "untilDate": "2018-07-26"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-22",
-        "untilDate": "2018-05-23"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-23",
-        "untilDate": "2018-05-24"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-24",
-        "untilDate": "2018-05-25"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-25",
-        "untilDate": "2018-05-26"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-26",
-        "untilDate": "2018-05-27"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-27",
-        "untilDate": "2018-05-28"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-28",
-        "untilDate": "2018-05-29"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-29",
-        "untilDate": "2018-05-30"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-30",
-        "untilDate": "2018-05-31"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-31",
-        "untilDate": "2018-06-01"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-01",
-        "untilDate": "2018-06-02"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-02",
-        "untilDate": "2018-06-03"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-03",
-        "untilDate": "2018-06-04"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-04",
-        "untilDate": "2018-06-05"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-05",
-        "untilDate": "2018-06-06"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-06",
-        "untilDate": "2018-06-07"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-07",
-        "untilDate": "2018-06-08"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-08",
-        "untilDate": "2018-06-09"
-      },
-      {
-        "insertions": 367,
-        "deletions": 171,
-        "sinceDate": "2018-06-09",
-        "untilDate": "2018-06-10"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-10",
-        "untilDate": "2018-06-11"
-      },
-      {
-        "insertions": 5,
-        "deletions": 4,
-        "sinceDate": "2018-06-11",
-        "untilDate": "2018-06-12"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-12",
-        "untilDate": "2018-06-13"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-13",
-        "untilDate": "2018-06-14"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-14",
-        "untilDate": "2018-06-15"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-15",
-        "untilDate": "2018-06-16"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-16",
-        "untilDate": "2018-06-17"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-17",
-        "untilDate": "2018-06-18"
-      },
-      {
-        "insertions": 245,
-        "deletions": 154,
-        "sinceDate": "2018-06-18",
-        "untilDate": "2018-06-19"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-19",
-        "untilDate": "2018-06-20"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-20",
-        "untilDate": "2018-06-21"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-21",
-        "untilDate": "2018-06-22"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-22",
-        "untilDate": "2018-06-23"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-23",
-        "untilDate": "2018-06-24"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-24",
-        "untilDate": "2018-06-25"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-25",
-        "untilDate": "2018-06-26"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-26",
-        "untilDate": "2018-06-27"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-27",
-        "untilDate": "2018-06-28"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-28",
-        "untilDate": "2018-06-29"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-29",
-        "untilDate": "2018-06-30"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-06-30",
-        "untilDate": "2018-07-01"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-01",
-        "untilDate": "2018-07-02"
-      },
-      {
-        "insertions": 46,
-        "deletions": 58,
-        "sinceDate": "2018-07-02",
-        "untilDate": "2018-07-03"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-03",
-        "untilDate": "2018-07-04"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-04",
-        "untilDate": "2018-07-05"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-05",
-        "untilDate": "2018-07-06"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-06",
-        "untilDate": "2018-07-07"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-07",
-        "untilDate": "2018-07-08"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-08",
-        "untilDate": "2018-07-09"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-09",
-        "untilDate": "2018-07-10"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-10",
-        "untilDate": "2018-07-11"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-11",
-        "untilDate": "2018-07-12"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-12",
-        "untilDate": "2018-07-13"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-13",
-        "untilDate": "2018-07-14"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-14",
-        "untilDate": "2018-07-15"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-15",
-        "untilDate": "2018-07-16"
-      },
-      {
-        "insertions": 25,
-        "deletions": 16,
-        "sinceDate": "2018-07-16",
-        "untilDate": "2018-07-17"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-17",
-        "untilDate": "2018-07-18"
-      },
-      {
-        "insertions": 127,
-        "deletions": 48,
-        "sinceDate": "2018-07-18",
-        "untilDate": "2018-07-19"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-19",
-        "untilDate": "2018-07-20"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-20",
-        "untilDate": "2018-07-21"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-07-21",
-        "untilDate": "2018-07-22"
+        "insertions": 33,
+        "deletions": 7,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
       }
     ],
     "yamidark": [
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-16"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-16",
-        "untilDate": "2018-05-17"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-17",
-        "untilDate": "2018-05-18"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-18",
-        "untilDate": "2018-05-19"
-      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -1950,33 +1528,455 @@
         "deletions": 3,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-22"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-22",
+        "untilDate": "2018-07-23"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-23",
+        "untilDate": "2018-07-24"
+      },
+      {
+        "insertions": 145,
+        "deletions": 40,
+        "sinceDate": "2018-07-24",
+        "untilDate": "2018-07-25"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-25",
+        "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 182,
+        "deletions": 77,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
+      }
+    ],
+    "yong24s": [
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-19",
+        "untilDate": "2018-05-20"
+      },
+      {
+        "insertions": 201,
+        "deletions": 90,
+        "sinceDate": "2018-05-20",
+        "untilDate": "2018-05-21"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-21",
+        "untilDate": "2018-05-22"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-22",
+        "untilDate": "2018-05-23"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-23",
+        "untilDate": "2018-05-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-24",
+        "untilDate": "2018-05-25"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-25",
+        "untilDate": "2018-05-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-26",
+        "untilDate": "2018-05-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-27",
+        "untilDate": "2018-05-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-28",
+        "untilDate": "2018-05-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-29",
+        "untilDate": "2018-05-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-30",
+        "untilDate": "2018-05-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-05-31",
+        "untilDate": "2018-06-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-01",
+        "untilDate": "2018-06-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-02",
+        "untilDate": "2018-06-03"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-03",
+        "untilDate": "2018-06-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-04",
+        "untilDate": "2018-06-05"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-05",
+        "untilDate": "2018-06-06"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-06",
+        "untilDate": "2018-06-07"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-07",
+        "untilDate": "2018-06-08"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-08",
+        "untilDate": "2018-06-09"
+      },
+      {
+        "insertions": 367,
+        "deletions": 171,
+        "sinceDate": "2018-06-09",
+        "untilDate": "2018-06-10"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-10",
+        "untilDate": "2018-06-11"
+      },
+      {
+        "insertions": 5,
+        "deletions": 4,
+        "sinceDate": "2018-06-11",
+        "untilDate": "2018-06-12"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-12",
+        "untilDate": "2018-06-13"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-13",
+        "untilDate": "2018-06-14"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-14",
+        "untilDate": "2018-06-15"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-15",
+        "untilDate": "2018-06-16"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-16",
+        "untilDate": "2018-06-17"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-17",
+        "untilDate": "2018-06-18"
+      },
+      {
+        "insertions": 245,
+        "deletions": 154,
+        "sinceDate": "2018-06-18",
+        "untilDate": "2018-06-19"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-19",
+        "untilDate": "2018-06-20"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-20",
+        "untilDate": "2018-06-21"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-21",
+        "untilDate": "2018-06-22"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-22",
+        "untilDate": "2018-06-23"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-23",
+        "untilDate": "2018-06-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-24",
+        "untilDate": "2018-06-25"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-25",
+        "untilDate": "2018-06-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-26",
+        "untilDate": "2018-06-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-27",
+        "untilDate": "2018-06-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-28",
+        "untilDate": "2018-06-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-29",
+        "untilDate": "2018-06-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-06-30",
+        "untilDate": "2018-07-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-01",
+        "untilDate": "2018-07-02"
+      },
+      {
+        "insertions": 46,
+        "deletions": 58,
+        "sinceDate": "2018-07-02",
+        "untilDate": "2018-07-03"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-03",
+        "untilDate": "2018-07-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-04",
+        "untilDate": "2018-07-05"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-05",
+        "untilDate": "2018-07-06"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-06",
+        "untilDate": "2018-07-07"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-07",
+        "untilDate": "2018-07-08"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-08",
+        "untilDate": "2018-07-09"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-09",
+        "untilDate": "2018-07-10"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-10",
+        "untilDate": "2018-07-11"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-11",
+        "untilDate": "2018-07-12"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-12",
+        "untilDate": "2018-07-13"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-13",
+        "untilDate": "2018-07-14"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-14",
+        "untilDate": "2018-07-15"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-15",
+        "untilDate": "2018-07-16"
+      },
+      {
+        "insertions": 25,
+        "deletions": 16,
+        "sinceDate": "2018-07-16",
+        "untilDate": "2018-07-17"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-17",
+        "untilDate": "2018-07-18"
+      },
+      {
+        "insertions": 127,
+        "deletions": 48,
+        "sinceDate": "2018-07-18",
+        "untilDate": "2018-07-19"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-19",
+        "untilDate": "2018-07-20"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-20",
+        "untilDate": "2018-07-21"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-21",
+        "untilDate": "2018-07-22"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-22",
+        "untilDate": "2018-07-23"
+      },
+      {
+        "insertions": 177,
+        "deletions": 124,
+        "sinceDate": "2018-07-23",
+        "untilDate": "2018-07-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-24",
+        "untilDate": "2018-07-25"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-25",
+        "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 252,
+        "deletions": 16,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
       }
     ],
     "eugenepeh": [
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-15",
-        "untilDate": "2018-05-16"
-      },
-      {
-        "insertions": 78,
-        "deletions": 132,
-        "sinceDate": "2018-05-16",
-        "untilDate": "2018-05-17"
-      },
-      {
-        "insertions": 394055,
-        "deletions": 15,
-        "sinceDate": "2018-05-17",
-        "untilDate": "2018-05-18"
-      },
-      {
-        "insertions": 0,
-        "deletions": 0,
-        "sinceDate": "2018-05-18",
-        "untilDate": "2018-05-19"
-      },
       {
         "insertions": 0,
         "deletions": 0,
@@ -2360,28 +2360,58 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-22"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-22",
+        "untilDate": "2018-07-23"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-23",
+        "untilDate": "2018-07-24"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-24",
+        "untilDate": "2018-07-25"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-25",
+        "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
       }
     ]
   },
   "authorFinalContributionMap": {
-    "ongspxm": 36,
-    "AdityaA1998": 357,
-    "yong24s": 761,
-    "yamidark": 1658,
-    "eugenepeh": 865
+    "ongspxm": 43,
+    "AdityaA1998": 536,
+    "yamidark": 1856,
+    "yong24s": 1132,
+    "eugenepeh": 845
   },
   "authorContributionVariance": {
-    "ongspxm": 7784.801,
-    "AdityaA1998": 1612.513,
-    "yong24s": 7947.3867,
-    "yamidark": 62157.715,
-    "eugenepeh": 4.4363633E9
+    "ongspxm": 7679.804,
+    "AdityaA1998": 1945.8008,
+    "yamidark": 62064.906,
+    "yong24s": 9760.119,
+    "eugenepeh": 2.22177306E9
   },
   "authorDisplayNameMap": {
     "ongspxm": "Metta",
     "AdityaA1998": "Aditya",
-    "yong24s": "Yong Hao",
     "yamidark": "Jun An",
+    "yong24s": "Yong Hao",
     "eugenepeh": "Eugene"
   }
 }
