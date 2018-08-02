@@ -1,6 +1,20 @@
 window.REPORT_ZIP = null;
 window.REPOS = {};
 
+window.hashParams = {};
+window.addHash = function addHash(newKey, newVal) {
+  const { hashParams } = window;
+  hashParams[newKey] = newVal;
+
+  const hash = [];
+  const enquery = (key, val) => `${key}=${encodeURIComponent(val)}`;
+  Object.keys(hashParams).forEach((hashKey) => {
+    hash.push(enquery(hashKey, hashParams[hashKey]));
+  });
+
+  window.location.hash = hash.join('&');
+};
+
 window.app = new window.Vue({
   el: '#app',
   data: {
@@ -13,7 +27,7 @@ window.app = new window.Vue({
     isTabAuthorship: false,
     tabInfo: {},
     tabAuthorship: {},
-    creationDate: "",
+    creationDate: '',
   },
   methods: {
     // model functions //
@@ -33,20 +47,21 @@ window.app = new window.Vue({
       this.updateReportView();
     },
     updateReportView() {
-      window.api.loadSummary((names) => {
+      window.api.loadSummary().then((names) => {
         this.repos = window.REPOS;
         this.repoLength = Object.keys(window.REPOS).length;
         this.loadedRepo = 0;
 
-        names.forEach((name) => {
-          window.api.loadCommits(name, () => this.addUsers());
-        });
+        this.userUpdated = false;
+        this.loadedRepo = 0;
+
+        return Promise.all(names.map(name => (
+          window.api.loadCommits(name)
+            .then(() => { this.loadedRepo += 1; })
+        )));
+      }).then(() => {
+        this.userUpdated = true;
       });
-    },
-    addUsers() {
-      this.userUpdated = false;
-      this.loadedRepo += 1;
-      this.userUpdated = true;
     },
     getUsers() {
       const full = [];
@@ -57,14 +72,13 @@ window.app = new window.Vue({
       });
       return full;
     },
-
     deactivateTabs() {
       this.isTabAuthorship = false;
     },
 
     updateTabAuthorship(obj) {
       this.deactivateTabs();
-      this.tabInfo.tabAuthorship = { ...obj };
+      this.tabInfo.tabAuthorship = Object.assign({}, obj);
 
       this.isTabActive = true;
       this.isTabAuthorship = true;

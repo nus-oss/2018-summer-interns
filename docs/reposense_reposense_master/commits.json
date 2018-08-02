@@ -56,10 +56,16 @@
         "untilDate": "2018-07-21"
       },
       {
-        "insertions": 12,
-        "deletions": 23,
+        "insertions": 61,
+        "deletions": 79,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 70,
+        "deletions": 37,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "AdityaA1998": [
@@ -122,6 +128,12 @@
         "deletions": 22,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 15,
+        "deletions": 3,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "yamidark": [
@@ -180,10 +192,16 @@
         "untilDate": "2018-07-21"
       },
       {
-        "insertions": 339,
+        "insertions": 349,
         "deletions": 120,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 12,
+        "deletions": 4,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "yong24s": [
@@ -212,8 +230,8 @@
         "untilDate": "2018-06-16"
       },
       {
-        "insertions": 245,
-        "deletions": 154,
+        "insertions": 233,
+        "deletions": 142,
         "sinceDate": "2018-06-16",
         "untilDate": "2018-06-23"
       },
@@ -246,6 +264,12 @@
         "deletions": 140,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 897,
+        "deletions": 315,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "eugenepeh": [
@@ -308,6 +332,12 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ]
   },
@@ -726,6 +756,48 @@
         "deletions": 0,
         "sinceDate": "2018-07-26",
         "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 49,
+        "deletions": 56,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 66,
+        "deletions": 33,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 3,
+        "deletions": 3,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "AdityaA1998": [
@@ -1142,6 +1214,48 @@
         "deletions": 7,
         "sinceDate": "2018-07-26",
         "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 15,
+        "deletions": 3,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "yamidark": [
@@ -1558,6 +1672,48 @@
         "deletions": 77,
         "sinceDate": "2018-07-26",
         "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 10,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 12,
+        "deletions": 4,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "yong24s": [
@@ -1742,8 +1898,8 @@
         "untilDate": "2018-06-18"
       },
       {
-        "insertions": 245,
-        "deletions": 154,
+        "insertions": 233,
+        "deletions": 142,
         "sinceDate": "2018-06-18",
         "untilDate": "2018-06-19"
       },
@@ -1974,6 +2130,48 @@
         "deletions": 16,
         "sinceDate": "2018-07-26",
         "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 135,
+        "deletions": 64,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 270,
+        "deletions": 61,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 492,
+        "deletions": 190,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "eugenepeh": [
@@ -2390,22 +2588,64 @@
         "deletions": 0,
         "sinceDate": "2018-07-26",
         "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ]
   },
   "authorFinalContributionMap": {
-    "ongspxm": 43,
-    "AdityaA1998": 536,
-    "yamidark": 1856,
-    "yong24s": 1132,
-    "eugenepeh": 845
+    "ongspxm": 127,
+    "AdityaA1998": 517,
+    "yamidark": 1832,
+    "yong24s": 1797,
+    "eugenepeh": 779
   },
   "authorContributionVariance": {
-    "ongspxm": 7679.804,
-    "AdityaA1998": 1945.8008,
-    "yamidark": 62064.906,
-    "yong24s": 9760.119,
-    "eugenepeh": 2.22177306E9
+    "ongspxm": 7190.707,
+    "AdityaA1998": 1775.3302,
+    "yamidark": 56593.676,
+    "yong24s": 15659.945,
+    "eugenepeh": 2.01989862E9
   },
   "authorDisplayNameMap": {
     "ongspxm": "Metta",

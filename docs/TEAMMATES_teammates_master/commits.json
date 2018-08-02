@@ -56,10 +56,16 @@
         "untilDate": "2018-07-21"
       },
       {
-        "insertions": 180,
-        "deletions": 23,
+        "insertions": 431,
+        "deletions": 141,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 54,
+        "deletions": 8,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "tshradheya": [
@@ -122,6 +128,12 @@
         "deletions": 4,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 2,
+        "deletions": 20,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "sukanta-27": [
@@ -184,6 +196,12 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "tanhengyeow": [
@@ -246,6 +264,12 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 64,
+        "deletions": 3,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "jacoblipech": [
@@ -308,6 +332,12 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ],
     "mg14777": [
@@ -370,6 +400,12 @@
         "deletions": 0,
         "sinceDate": "2018-07-21",
         "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 81,
+        "deletions": 43,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-08-04"
       }
     ]
   },
@@ -782,6 +818,54 @@
         "deletions": 23,
         "sinceDate": "2018-07-25",
         "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 251,
+        "deletions": 118,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 54,
+        "deletions": 8,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "tshradheya": [
@@ -1192,6 +1276,54 @@
         "deletions": 4,
         "sinceDate": "2018-07-25",
         "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 2,
+        "deletions": 20,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "sukanta-27": [
@@ -1602,6 +1734,54 @@
         "deletions": 0,
         "sinceDate": "2018-07-25",
         "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 1,
+        "deletions": 1,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "tanhengyeow": [
@@ -2012,6 +2192,54 @@
         "deletions": 0,
         "sinceDate": "2018-07-25",
         "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 28,
+        "deletions": 1,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 36,
+        "deletions": 2,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "jacoblipech": [
@@ -2422,6 +2650,54 @@
         "deletions": 0,
         "sinceDate": "2018-07-25",
         "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ],
     "mg14777": [
@@ -2832,24 +3108,72 @@
         "deletions": 0,
         "sinceDate": "2018-07-25",
         "untilDate": "2018-07-26"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-26",
+        "untilDate": "2018-07-27"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-27",
+        "untilDate": "2018-07-28"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-28",
+        "untilDate": "2018-07-29"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-29",
+        "untilDate": "2018-07-30"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-07-30",
+        "untilDate": "2018-07-31"
+      },
+      {
+        "insertions": 81,
+        "deletions": 43,
+        "sinceDate": "2018-07-31",
+        "untilDate": "2018-08-01"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-01",
+        "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
       }
     ]
   },
   "authorFinalContributionMap": {
-    "nidhi98gupta": 338,
-    "tshradheya": 487,
-    "sukanta-27": 5475,
-    "tanhengyeow": 524,
+    "nidhi98gupta": 640,
+    "tshradheya": 392,
+    "sukanta-27": 5476,
+    "tanhengyeow": 587,
     "jacoblipech": 389,
-    "mg14777": 306
+    "mg14777": 378
   },
   "authorContributionVariance": {
-    "nidhi98gupta": 1501.3934,
-    "tshradheya": 2392.25,
-    "sukanta-27": 2414788.0,
-    "tanhengyeow": 6596.6177,
-    "jacoblipech": 898.51514,
-    "mg14777": 2555.665
+    "nidhi98gupta": 3080.3704,
+    "tshradheya": 2151.6836,
+    "sukanta-27": 2165510.2,
+    "tanhengyeow": 5926.164,
+    "jacoblipech": 808.5672,
+    "mg14777": 2471.8062
   },
   "authorDisplayNameMap": {
     "nidhi98gupta": "Nidhi",
