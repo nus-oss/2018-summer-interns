@@ -130,8 +130,8 @@
         "untilDate": "2018-07-28"
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 35,
+        "deletions": 6,
         "sinceDate": "2018-07-28",
         "untilDate": "2018-08-04"
       }
@@ -198,8 +198,8 @@
         "untilDate": "2018-07-28"
       },
       {
-        "insertions": 1,
-        "deletions": 0,
+        "insertions": 92,
+        "deletions": 34,
         "sinceDate": "2018-07-28",
         "untilDate": "2018-08-04"
       }
@@ -656,6 +656,18 @@
         "deletions": 12,
         "sinceDate": "2018-08-01",
         "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-03",
+        "untilDate": "2018-08-04"
       }
     ],
     "nusjzx": [
@@ -1108,6 +1120,18 @@
         "deletions": 0,
         "sinceDate": "2018-08-01",
         "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 13,
+        "deletions": 2,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
+      },
+      {
+        "insertions": 22,
+        "deletions": 4,
+        "sinceDate": "2018-08-03",
+        "untilDate": "2018-08-04"
       }
     ],
     "Chng-Zhi-Xuan": [
@@ -1560,18 +1584,30 @@
         "deletions": 0,
         "sinceDate": "2018-08-01",
         "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 19,
+        "deletions": 1,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
+      },
+      {
+        "insertions": 72,
+        "deletions": 33,
+        "sinceDate": "2018-08-03",
+        "untilDate": "2018-08-04"
       }
     ]
   },
   "authorFinalContributionMap": {
     "yamgent": 572,
-    "nusjzx": 482,
-    "Chng-Zhi-Xuan": 2148
+    "nusjzx": 514,
+    "Chng-Zhi-Xuan": 2204
   },
   "authorContributionVariance": {
-    "yamgent": 1622.2549,
-    "nusjzx": 1811.773,
-    "Chng-Zhi-Xuan": 85413.38
+    "yamgent": 1585.0012,
+    "nusjzx": 1769.444,
+    "Chng-Zhi-Xuan": 83253.26
   },
   "authorDisplayNameMap": {
     "yamgent": "Wang Leng",

@@ -66,6 +66,18 @@
         "deletions": 266,
         "sinceDate": "2018-07-28",
         "untilDate": "2018-08-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-04",
+        "untilDate": "2018-08-11"
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "sinceDate": "2018-08-11",
+        "untilDate": "2018-08-18"
       }
     ],
     "nusjzx": [
@@ -134,6 +146,18 @@
         "deletions": 0,
         "sinceDate": "2018-07-28",
         "untilDate": "2018-08-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-04",
+        "untilDate": "2018-08-11"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-11",
+        "untilDate": "2018-08-18"
       }
     ],
     "Chng-Zhi-Xuan": [
@@ -202,6 +226,18 @@
         "deletions": 0,
         "sinceDate": "2018-07-28",
         "untilDate": "2018-08-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-04",
+        "untilDate": "2018-08-11"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-11",
+        "untilDate": "2018-08-18"
       }
     ]
   },
@@ -656,6 +692,72 @@
         "deletions": 266,
         "sinceDate": "2018-08-01",
         "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-03",
+        "untilDate": "2018-08-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-04",
+        "untilDate": "2018-08-05"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-05",
+        "untilDate": "2018-08-06"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-06",
+        "untilDate": "2018-08-07"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-07",
+        "untilDate": "2018-08-08"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-08",
+        "untilDate": "2018-08-09"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-09",
+        "untilDate": "2018-08-10"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-10",
+        "untilDate": "2018-08-11"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-11",
+        "untilDate": "2018-08-12"
+      },
+      {
+        "insertions": 2,
+        "deletions": 2,
+        "sinceDate": "2018-08-12",
+        "untilDate": "2018-08-13"
       }
     ],
     "nusjzx": [
@@ -1108,6 +1210,72 @@
         "deletions": 0,
         "sinceDate": "2018-08-01",
         "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-03",
+        "untilDate": "2018-08-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-04",
+        "untilDate": "2018-08-05"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-05",
+        "untilDate": "2018-08-06"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-06",
+        "untilDate": "2018-08-07"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-07",
+        "untilDate": "2018-08-08"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-08",
+        "untilDate": "2018-08-09"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-09",
+        "untilDate": "2018-08-10"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-10",
+        "untilDate": "2018-08-11"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-11",
+        "untilDate": "2018-08-12"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-12",
+        "untilDate": "2018-08-13"
       }
     ],
     "Chng-Zhi-Xuan": [
@@ -1560,18 +1728,84 @@
         "deletions": 0,
         "sinceDate": "2018-08-01",
         "untilDate": "2018-08-02"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-02",
+        "untilDate": "2018-08-03"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-03",
+        "untilDate": "2018-08-04"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-04",
+        "untilDate": "2018-08-05"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-05",
+        "untilDate": "2018-08-06"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-06",
+        "untilDate": "2018-08-07"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-07",
+        "untilDate": "2018-08-08"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-08",
+        "untilDate": "2018-08-09"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-09",
+        "untilDate": "2018-08-10"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-10",
+        "untilDate": "2018-08-11"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-11",
+        "untilDate": "2018-08-12"
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "sinceDate": "2018-08-12",
+        "untilDate": "2018-08-13"
       }
     ]
   },
   "authorFinalContributionMap": {
-    "yamgent": 14473,
+    "yamgent": 14475,
     "nusjzx": 95,
     "Chng-Zhi-Xuan": 19
   },
   "authorContributionVariance": {
-    "yamgent": 8.2961072E7,
-    "nusjzx": 129.49794,
-    "Chng-Zhi-Xuan": 5.9264016
+    "yamgent": 7.2667968E7,
+    "nusjzx": 113.59107,
+    "Chng-Zhi-Xuan": 5.1899714
   },
   "authorDisplayNameMap": {
     "yamgent": "Wang Leng",
